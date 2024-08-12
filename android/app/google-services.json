@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870801313165",
+    "project_id": "tasks-bae39",
+    "storage_bucket": "tasks-bae39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870801313165:android:c1057bd0f2d1d575d441c4",
+        "android_client_info": {
+          "package_name": "com.keinerpenaranda.tasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApIiGqxb9Ffic5plwsb5aPx2VNEhvRz88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
